@@ -1,0 +1,15 @@
+.movie-index-item {
+  display: flex;
+  height: 600px;
+  border: 1px solid black;
+}
+
+.poster {
+  flex: 1;
+
+}
+
+.content {
+  padding: 20px;
+  flex: 2;
+}
